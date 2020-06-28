@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="36368" started-at="2020-06-27T08:54:49Z" finished-at="2020-06-27T08:55:25Z">
+  <suite name="Default suite" duration-ms="52759" started-at="2020-06-28T17:46:23Z" finished-at="2020-06-28T17:47:16Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="36368" started-at="2020-06-27T08:54:49Z" finished-at="2020-06-27T08:55:25Z">
+    <test name="Default test" duration-ms="52759" started-at="2020-06-28T17:46:23Z" finished-at="2020-06-28T17:47:16Z">
       <class name="TestVagrant.WeatherReportingComparator.TC_001_CompareWeather">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:TestVagrant.WeatherReportingComparator.TC_001_CompareWeather@475530b9]" name="setUp" is-config="true" duration-ms="29293" started-at="2020-06-27T08:54:49Z" finished-at="2020-06-27T08:55:18Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestVagrant.WeatherReportingComparator.TC_001_CompareWeather@48503868]" name="setUp" is-config="true" duration-ms="39320" started-at="2020-06-28T17:46:23Z" finished-at="2020-06-28T17:47:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="CheckWeather()[pri:0, instance:TestVagrant.WeatherReportingComparator.TC_001_CompareWeather@475530b9]" name="CheckWeather" duration-ms="5497" started-at="2020-06-27T08:55:18Z" finished-at="2020-06-27T08:55:24Z">
+        <test-method status="PASS" signature="CheckWeather()[pri:0, instance:TestVagrant.WeatherReportingComparator.TC_001_CompareWeather@48503868]" name="CheckWeather" duration-ms="11299" started-at="2020-06-28T17:47:03Z" finished-at="2020-06-28T17:47:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckWeather -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestVagrant.WeatherReportingComparator.TC_001_CompareWeather@475530b9]" name="TearDown" is-config="true" duration-ms="1544" started-at="2020-06-27T08:55:24Z" finished-at="2020-06-27T08:55:25Z">
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestVagrant.WeatherReportingComparator.TC_001_CompareWeather@48503868]" name="TearDown" is-config="true" duration-ms="2100" started-at="2020-06-28T17:47:14Z" finished-at="2020-06-28T17:47:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
